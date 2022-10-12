@@ -1,5 +1,7 @@
 # uGuard
 
+Our code was implemented in Python 3.7
+
 uGuard Robustness and Image Purification
 
 1. Install the requirements in requirements.txt
