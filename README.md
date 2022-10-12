@@ -17,3 +17,5 @@ uGuard Robustness and Image Purification
 7. Run step 05 script to purify images
 
 uGuard Explainability and Targeted Obfuscation
+
+Experiments with CSRA versus other explanation methods can be found in the Evaluations folder
